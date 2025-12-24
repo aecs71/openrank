@@ -1,0 +1,9 @@
+{
+	"id": "uKno8YFPWfKEKoz",
+	"json": "{\"id\":\"uKno8YFPWfKEKoz\",\"url\":\"https://www.pizzahut.co.uk/\",\"loadedUrl\":\"https://www.pizzahut.co.uk/\",\"uniqueKey\":\"https://www.pizzahut.co.uk\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-12-24T03:22:12.748Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.pizzahut.co.uk",
+	"url": "https://www.pizzahut.co.uk/"
+}

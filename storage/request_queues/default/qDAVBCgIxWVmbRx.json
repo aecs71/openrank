@@ -1,0 +1,9 @@
+{
+	"id": "qDAVBCgIxWVmbRx",
+	"json": "{\"id\":\"qDAVBCgIxWVmbRx\",\"url\":\"https://www.pizzapilgrims.co.uk/\",\"loadedUrl\":\"https://www.pizzapilgrims.co.uk/\",\"uniqueKey\":\"https://www.pizzapilgrims.co.uk\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-12-24T03:22:02.335Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.pizzapilgrims.co.uk",
+	"url": "https://www.pizzapilgrims.co.uk/"
+}

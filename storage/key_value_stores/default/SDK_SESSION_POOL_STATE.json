@@ -1,0 +1,258 @@
+{
+  "usableSessionsCount": 4,
+  "retiredSessionsCount": 0,
+  "sessions": [
+    {
+      "id": "session_BfL5eukn07",
+      "cookieJar": {
+        "version": "tough-cookie@6.0.0",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": []
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2025-12-24T04:11:53.103Z",
+      "createdAt": "2025-12-24T03:21:53.103Z",
+      "usageCount": 0,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_j73z3SGbQE",
+      "cookieJar": {
+        "version": "tough-cookie@6.0.0",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": [
+          {
+            "key": "TASID",
+            "value": "5E0E8A478B6F59A60ECCC0E941499897",
+            "expires": "2025-12-24T03:51:58.261Z",
+            "domain": "www.tripadvisor.co.uk",
+            "path": "/",
+            "secure": true,
+            "hostOnly": false,
+            "creation": "2025-12-24T03:21:59.563Z",
+            "lastAccessed": "2025-12-24T03:21:59.563Z"
+          },
+          {
+            "key": "TAUnique",
+            "value": "%1%enc%3A1%2Fx%2Bcoil00cPxO2myDA11Dv6ofGd9%2BCgWN1aFg1SvrsoO6%2FLk4kWxYwc83aDiHcHNox8JbUSTxk%3D",
+            "expires": "2027-01-28T03:21:58.262Z",
+            "domain": "tripadvisor.co.uk",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": false,
+            "creation": "2025-12-24T03:21:59.563Z",
+            "lastAccessed": "2025-12-24T03:21:59.563Z"
+          },
+          {
+            "key": "TASameSite",
+            "value": "1",
+            "expires": "2027-01-28T03:21:58.262Z",
+            "domain": "www.tripadvisor.co.uk",
+            "path": "/",
+            "secure": true,
+            "httpOnly": true,
+            "hostOnly": false,
+            "creation": "2025-12-24T03:21:59.563Z",
+            "lastAccessed": "2025-12-24T03:21:59.563Z"
+          },
+          {
+            "key": "__vt",
+            "value": "ZcC68uZ5qYDjU-uQABQCT24E-H_BQo6gx1APGQJPtzpY9nZjm2uV1CThJVZpi4YboqdFcDV7IJzp8psymT1BKza7pzfNegX8ywxh870_sMfanclZAOjzLqoHJWOQYM2pcYX-NaQltLMXekBh-OV1ec_aJQ",
+            "expires": "2025-12-24T04:21:58.262Z",
+            "domain": "www.tripadvisor.co.uk",
+            "path": "/",
+            "secure": true,
+            "httpOnly": true,
+            "hostOnly": false,
+            "creation": "2025-12-24T03:21:59.563Z",
+            "lastAccessed": "2025-12-24T03:21:59.563Z"
+          },
+          {
+            "key": "datadome",
+            "value": "3bmNCmS9JQVRyeTw8f1IVhcqdeKbhU__tTWPrqvLqAXdFyM6Mr3XP_ZIMANTAVpNKNSqxSs6~XNVE6xh8tIN36EuW3_Xqxth6xwZP~~ZKVRE8Q_4hdndkIMN8mPuJqqv",
+            "expires": "2026-12-19T03:21:58.262Z",
+            "domain": "tripadvisor.co.uk",
+            "path": "/",
+            "secure": true,
+            "hostOnly": false,
+            "creation": "2025-12-24T03:21:59.563Z",
+            "lastAccessed": "2025-12-24T03:21:59.563Z"
+          },
+          {
+            "key": "_ga_S3YMWTZ8KF",
+            "value": "GS2.1.s1766546518$o1$g0$t1766546518$j60$l0$h1103174623",
+            "expires": "2027-01-28T03:21:58.635Z",
+            "domain": "pizzapilgrims.co.uk",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2025-12-24T03:22:00.684Z",
+            "lastAccessed": "2025-12-24T03:22:00.684Z"
+          },
+          {
+            "key": "_ga",
+            "value": "GA1.1.2008741388.1766546519",
+            "expires": "2027-01-28T03:21:58.637Z",
+            "domain": "pizzapilgrims.co.uk",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2025-12-24T03:22:00.684Z",
+            "lastAccessed": "2025-12-24T03:22:00.684Z"
+          },
+          {
+            "key": "_gcl_au",
+            "value": "1.1.1631347752.1766546519",
+            "expires": "2026-03-24T03:21:59.000Z",
+            "domain": "pizzapilgrims.co.uk",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2025-12-24T03:22:00.684Z",
+            "lastAccessed": "2025-12-24T03:22:00.684Z"
+          },
+          {
+            "key": "_fbp",
+            "value": "fb.2.1766546519406.98637753815196003",
+            "expires": "2026-03-24T03:21:59.000Z",
+            "domain": "pizzapilgrims.co.uk",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2025-12-24T03:22:00.684Z",
+            "lastAccessed": "2025-12-24T03:22:00.684Z"
+          },
+          {
+            "key": "_clck",
+            "value": "14pgxfu%5E2%5Eg24%5E0%5E2184",
+            "expires": "2026-12-24T03:21:59.000Z",
+            "domain": "pizzapilgrims.co.uk",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2025-12-24T03:22:00.684Z",
+            "lastAccessed": "2025-12-24T03:22:00.684Z"
+          },
+          {
+            "key": "_clsk",
+            "value": "1veib7%5E1766546520327%5E1%5E1%5Ea.clarity.ms%2Fcollect",
+            "expires": "2025-12-25T03:22:00.000Z",
+            "domain": "pizzapilgrims.co.uk",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2025-12-24T03:22:00.684Z",
+            "lastAccessed": "2025-12-24T03:22:00.684Z"
+          },
+          {
+            "key": "AKA_A2",
+            "value": "A",
+            "expires": "2025-12-24T04:22:06.117Z",
+            "domain": "pizzahut.co.uk",
+            "path": "/",
+            "secure": true,
+            "httpOnly": true,
+            "hostOnly": false,
+            "creation": "2025-12-24T03:22:10.223Z",
+            "lastAccessed": "2025-12-24T03:22:10.223Z"
+          },
+          {
+            "key": "ak_bmsc",
+            "value": "1C3F6239CF1968689E9A848EDDC40BF2~000000000000000000000000000000~YAAQdkPHF4MZSCubAQAA78tgTh5/S5lyNNf/jHQ1o75CJmZZyhCqiBS8eSSRHn5nwwhd7x+my6jAMBPzowYP4UO3GMqu5Q1i8uud/nJWFaNIVDTaTHNa0zw0Lh7K8p87q4Hl51H/yNSjNbIhwjOXjboOEvhjZUG6FfftKg9NNMqbiosI3YODHLYPbr/UvBOKJ4BhOfmJJwQbcRKb0IgASgsFM6MYe0f9jtFxKTunizJGnEI6XUDNCKvtGqG0KQRK+HF0GLYoYbR27vTWahbqPoj6zNzC10LbEdUDKt9H9OAO9iJaIoN5Lwjsvm3daHy6EfwLbZcIJRNLrXKRhpsfK5/PIyqx7z2MumkZjZYInhaLSlk+ivg/lo8p7QBADWtVNzuSXPozwo/VFF8G/FFryFN0+1vI9YO6UVNHoRlfZKDYEyPiLu4A3y/S",
+            "expires": "2025-12-24T05:22:06.117Z",
+            "domain": "pizzahut.co.uk",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": false,
+            "creation": "2025-12-24T03:22:10.223Z",
+            "lastAccessed": "2025-12-24T03:22:10.223Z"
+          },
+          {
+            "key": "PIM-SESSION-ID",
+            "value": "dseBxMaSJc0mVBAe",
+            "expires": "2025-12-24T04:12:10.218Z",
+            "domain": "pizzahut.co.uk",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2025-12-24T03:22:10.223Z",
+            "lastAccessed": "2025-12-24T03:22:10.223Z"
+          },
+          {
+            "key": "_dd_s",
+            "value": "logs=1&id=740f11f0-5fa3-43ea-ac9e-6e3dbc097af2&created=1766546527046&expire=1766547427058&rum=2",
+            "expires": "2025-12-24T03:37:07.000Z",
+            "domain": "www.pizzahut.co.uk",
+            "path": "/",
+            "hostOnly": true,
+            "creation": "2025-12-24T03:22:10.223Z",
+            "lastAccessed": "2025-12-24T03:22:10.223Z"
+          },
+          {
+            "key": "bm_sv",
+            "value": "8BA809707B4503EF847A39C531CFC1E9~YAAQdkPHF1wbSCubAQAAi9VgTh796A724eseNpF7UvuP8G2GIgDjAd6SzpjMMmUavDVxcRIytPjhttVnulNEzvBiIWOgeMhDKmxLyRYGuWMcx50muo85hyC+Rzca7BbfoiXTvDdP6GP9dXwWxCEGR5F72NR0V89qLP336sGgPIpWhKrtsLW1lF06BW1prTCYnmgJwyjuKAUbz0648yodBo34K0SrQsVlWCmqAJTwp+9iZS54gyK2Xk6ERHhSroTJ5EaV/g==~1",
+            "expires": "2025-12-24T05:22:08.565Z",
+            "domain": "pizzahut.co.uk",
+            "path": "/",
+            "secure": true,
+            "hostOnly": false,
+            "creation": "2025-12-24T03:22:10.223Z",
+            "lastAccessed": "2025-12-24T03:22:10.223Z"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2025-12-24T04:11:53.105Z",
+      "createdAt": "2025-12-24T03:21:53.105Z",
+      "usageCount": 3,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_BFrFLye7k9",
+      "cookieJar": {
+        "version": "tough-cookie@6.0.0",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": []
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2025-12-24T04:11:53.117Z",
+      "createdAt": "2025-12-24T03:21:53.117Z",
+      "usageCount": 0,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_NP8J07BEcv",
+      "cookieJar": {
+        "version": "tough-cookie@6.0.0",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": []
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2025-12-24T04:12:02.396Z",
+      "createdAt": "2025-12-24T03:22:02.396Z",
+      "usageCount": 0,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    }
+  ]
+}

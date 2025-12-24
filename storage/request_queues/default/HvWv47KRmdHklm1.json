@@ -1,0 +1,9 @@
+{
+	"id": "HvWv47KRmdHklm1",
+	"json": "{\"id\":\"HvWv47KRmdHklm1\",\"url\":\"https://www.tripadvisor.co.uk/Restaurants-g186338-c31-London_England.html\",\"loadedUrl\":\"https://www.tripadvisor.co.uk/Restaurants-g186338-c31-London_England.html\",\"uniqueKey\":\"https://www.tripadvisor.co.uk/Restaurants-g186338-c31-London_England.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-12-24T03:22:10.030Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.tripadvisor.co.uk/Restaurants-g186338-c31-London_England.html",
+	"url": "https://www.tripadvisor.co.uk/Restaurants-g186338-c31-London_England.html"
+}
